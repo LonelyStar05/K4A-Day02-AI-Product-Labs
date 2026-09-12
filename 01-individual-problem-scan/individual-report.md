@@ -4,8 +4,8 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên: _(điền tên thật)_
-- Mã học viên: _(điền mã học viên)_
+- Họ và tên: Nguyễn Tú Tài
+- Mã học viên: 2A202602455
 - Vai trò / bối cảnh: Sinh viên Software Engineering năm 3–4, đang làm đồ án nhóm + nghiên cứu khoa học (NCKH) song song
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
   - Tìm kiếm và lọc paper / tài liệu kỹ thuật tiếng Anh cho NCKH
